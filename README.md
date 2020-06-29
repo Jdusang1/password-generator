@@ -1,1 +1,3 @@
-# password-generator
+readme.md
+
+For this project I used my knowledge of JavaScript to generate a random password for  the user. That password was created by functions that targeted random arrays and selected random index positions from said array. Then taking its selections and creating a password that met user qualifications. I was fortunate to have help from fellow students and tutors in areas of the assignment that I still have not quite fully grasped.
